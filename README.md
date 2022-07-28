@@ -1,1 +1,1 @@
-# Car-Rental-System
+# DBMS PROJECT
